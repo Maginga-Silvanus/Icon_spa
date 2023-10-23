@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "com.example.icon_spa.app-merged_res-34:/layout_activity_home.xml.flat",
+        "source": "com.example.icon_spa.app-main-36:/layout/activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\font_abril_fatface.xml.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\font\\abril_fatface.xml"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\drawable_base_logo.png.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\drawable\\base_logo.png"
+    },
+    {
+        "merged": "com.example.icon_spa.app-merged_res-34:/layout_activity_brands.xml.flat",
+        "source": "com.example.icon_spa.app-main-36:/layout/activity_brands.xml"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\drawable_background1.png.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\drawable\\background1.png"
+    },
+    {
+        "merged": "com.example.icon_spa.app-merged_res-34:/layout_activity_model.xml.flat",
+        "source": "com.example.icon_spa.app-main-36:/layout/activity_model.xml"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\font_almendra_sc.xml.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\font\\almendra_sc.xml"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.icon_spa.app-merged_res-34:/layout_activity_login.xml.flat",
+        "source": "com.example.icon_spa.app-main-36:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.icon_spa.app-merged_res-34:/layout_activity_main.xml.flat",
+        "source": "com.example.icon_spa.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\layout_activity_brands.xml.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\layout\\activity_brands.xml"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\anim_top_animation.xml.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\anim\\top_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\mipmap-xxxhdpi_base_launcher.png.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\mipmap-xxxhdpi\\base_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\font_diplomata.xml.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\font\\diplomata.xml"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\mipmap-xxhdpi_base_launcher.png.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\mipmap-xxhdpi\\base_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\drawable_splash_image.png.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\drawable\\splash_image.png"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\anim_bottom_animation.xml.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\anim\\bottom_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\mipmap-xhdpi_base_launcher.png.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\mipmap-xhdpi\\base_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\mipmap-hdpi_base_launcher.png.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\mipmap-hdpi\\base_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\drawable_background2.png.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\drawable\\background2.png"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\layout_activity_model.xml.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\layout\\activity_model.xml"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\mipmap-mdpi_base_launcher.png.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\mipmap-mdpi\\base_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\font_antic.xml.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\font\\antic.xml"
+    },
+    {
+        "merged": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-merged_res-34:\\font_bangers.ttf.flat",
+        "source": "C:\\Users\\teega\\.gradle\\daemon\\7.5\\com.example.icon_spa.app-main-36:\\font\\bangers.ttf"
+    }
+]
